@@ -51,7 +51,7 @@ After natural disasters, rapid and accurate damage assessment is critical. Manua
 
 1. **Upload or place the repository contents** into a Kaggle Notebook workspace (Don't Forget to Upload the Dataset!)
 3. Open `final.ipynb` and run the cells to:
-- Generate the `paired_buildings.csv`
+- Perform minor preprocessing
 - Train the model
 - Evaluate results
 
@@ -76,9 +76,3 @@ After natural disasters, rapid and accurate damage assessment is critical. Manua
 - Author: [Rythmbouncy](https://github.com/Rythmbouncy)
 
 ---
-
-
-
-
-
-
